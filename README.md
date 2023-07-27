@@ -1,1 +1,3 @@
 # TimeProfiler
+
+[Documentation](TimeProfiler.pdf)
